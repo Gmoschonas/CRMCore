@@ -186,7 +186,7 @@ The @page "/help" provides help and FAQs for the Think CRM application, along wi
 
 
 ## Contact
-For any questions or requests, please contact [Gerasimos Moschonas] at [Gmoschonas@gmail.com].
+For any questions or requests, please contact [Gerasimos Moschonas] at [gerasimos.mosxonas@gmail.com].
 
 ## License
 
